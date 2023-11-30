@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "307595673773",
+    "project_id": "ecommerceeeeeee-7f244",
+    "storage_bucket": "ecommerceeeeeee-7f244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307595673773:android:e4f3ac4b86d48d2848c624",
+        "android_client_info": {
+          "package_name": "com.example.productsadder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHBajXs7OM-BUkSgLI3ahWjBEkdrwZijA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307595673773:android:792433867434071448c624",
+        "android_client_info": {
+          "package_name": "com.khoich.ecommerceeeeeee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHBajXs7OM-BUkSgLI3ahWjBEkdrwZijA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307595673773:android:5b635488c0d1989648c624",
+        "android_client_info": {
+          "package_name": "com.khoich.productadder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHBajXs7OM-BUkSgLI3ahWjBEkdrwZijA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
